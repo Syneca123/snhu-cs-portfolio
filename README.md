@@ -20,3 +20,60 @@ I interpreted user needs by carefully analyzing the client’s goals and identif
 Software Design Approach and Future Strategies
 
 My approach to designing software focuses on breaking problems into smaller components, identifying requirements early, and using visual modeling techniques such as use case diagrams, class diagrams, and system workflows. In the future, I would continue to use these strategies while also incorporating more iterative feedback and validation with stakeholders throughout the design process to ensure the final system fully meets user and business needs.
+
+# Computer Science Portfolio
+
+## Overview
+
+This repository showcases my work throughout the Computer Science program. It includes selected projects, code samples, and reflections that demonstrate my understanding of core concepts such as data structures, algorithms, and software development practices.
+
+---
+
+## Data Structures and Algorithms
+
+### Project Artifacts
+
+**Project One: Run-Time and Memory Analysis**
+
+* An analysis of different data structures and their performance in terms of time complexity and memory usage.
+
+**Project Two: Course Sorting Program**
+
+* A C++ program that reads, stores, sorts, and prints a list of Computer Science courses in alphanumeric order.
+
+### Project Files
+
+
+
+---
+
+### Reflection
+
+In this course, the primary problem I was solving involved analyzing and implementing efficient data structures and algorithms to manage and organize data. In Project One, I evaluated the run-time and memory usage of different data structures, which required understanding how performance scales with input size. In Project Two, I developed a program that sorts and prints a list of Computer Science courses in alphanumeric order, reinforcing my ability to apply sorting logic and structure data effectively.
+
+I approached these problems by breaking them down into smaller components and identifying which data structures would best fit the requirements. Understanding data structures is critical because they directly impact the efficiency and scalability of a program. Choosing the appropriate structure affects search time, insertion speed, and memory usage.
+
+During the projects, I encountered challenges such as debugging sorting logic and ensuring correct data handling. I addressed these issues by testing incrementally, tracing outputs, and revisiting course materials to strengthen my understanding.
+
+This work expanded my approach to designing software by encouraging me to consider efficiency and scalability early in development. I now focus not only on functionality but also on performance and long-term usability.
+
+Additionally, this project improved how I write code by emphasizing maintainability, readability, and adaptability. I use clearer variable names, modular design, and structured logic so that my programs are easier to understand and modify.
+
+---
+
+## Skills Demonstrated
+
+* Data Structures (Vectors, Hash Tables, Trees)
+* Algorithm Analysis (Time and Space Complexity)
+* Sorting Algorithms
+* C++ Programming
+* Problem Solving and Debugging
+* Writing Maintainable and Readable Code
+
+---
+
+
+
+
+
+
