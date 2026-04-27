@@ -73,6 +73,21 @@ Additionally, this project improved how I write code by emphasizing maintainabil
 ---
 
 
+## Software Testing, Automation, and Quality Assurance
+
+### Project Artifacts
+
+**Project One: Contact Service**
+
+* Developed a contact service with validation rules and unit tests.
+* Implemented classes to create and manage contact data.
+* Created unit tests to verify functionality and catch errors.
+
+**Project Two: Summary and Reflection Report**
+
+* Analyzed testing strategies and approaches.
+* Reflected on software testing practices and outcomes.
+
 
 
 
